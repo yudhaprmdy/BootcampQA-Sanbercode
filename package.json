@@ -1,0 +1,23 @@
+{
+  "name": "bootcampqa-sanbercode",
+  "version": "1.0.0",
+  "description": "QA Intensive Bootcamp",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yudhaprmdy/BootcampQA-Sanbercode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yudhaprmdy/BootcampQA-Sanbercode/issues"
+  },
+  "homepage": "https://github.com/yudhaprmdy/BootcampQA-Sanbercode#readme",
+  "devDependencies": {
+    "cypress": "^13.6.0"
+  }
+}
